@@ -15,7 +15,7 @@ const user = {
     password: 12345
 };
 let token = ''; 
-const URL = '';
+const URL = process.env.NODE_ENV;
 const PATH_LOGIN = '/login';
 
 describe("Testes de Contrato", function() {
