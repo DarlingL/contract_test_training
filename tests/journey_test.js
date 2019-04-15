@@ -28,7 +28,6 @@ describe("Testes de Contrato", function() {
     .end(function(err, res) {
         expect(res.status).to.be.eql(201);
         joiAssert(res.body, schemaLogin);
-        token = res.header.authorization;
         done(err);
         });
     });

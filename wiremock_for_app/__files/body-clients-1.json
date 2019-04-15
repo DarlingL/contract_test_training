@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Fernando Souza",
+    "age": 33,
+    "email": "fernandosouza@gmail.com",
+    "is_active": true,
+    "phone":{
+        "type": "residential",
+        "number": 1159265473
+    },
+    "debit_alert": null
+     
+}

@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "name": "Julia Franscisca",
+    "age": 27,
+    "email": "ju_2310@hotmail.com",
+    "is_active": true,
+    "phone":{
+        "type": "mobile",
+        "number": 11959265473
+    },
+    "debit_alert": null    
+}

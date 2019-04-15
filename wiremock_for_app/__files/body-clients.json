@@ -1,0 +1,16 @@
+{
+    "clients":[
+        { 
+        "id": 1,
+        "name": "Fernando Souza",
+        "age" : 33
+    },
+    { 
+        "id": 2,
+        "name": "Julia Franscisca",
+        "age" : 27
+    }
+    ],
+    "timestamp": "20190612",
+    "page": 1   
+}

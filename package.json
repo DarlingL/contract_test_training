@@ -4,7 +4,7 @@
   "description": "Teste de Contratos",
   "main": "contract_testing.js",
   "scripts": {
-    "tests_contract": "NODE_ENV=https://192.0.1.1:8080 mocha tests/journey_test.js --reporter mochawesome"
+    "tests_contract": "NODE_ENV=http://{URL_AQUI} mocha tests/journey_test.js --reporter mochawesome"
   },
   "author": "Darling",
   "license": "ISC",

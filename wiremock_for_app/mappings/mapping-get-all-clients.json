@@ -1,0 +1,15 @@
+{
+  "id" : "31940acf-1aad-3463-998f-f4de4e3aef2c",
+  "request" : {
+    "url" : "/clients",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-clients.json",
+    "headers": {
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  },
+  "uuid" : "31940acf-1aad-3463-998f-f4de4e3aef2c"
+}

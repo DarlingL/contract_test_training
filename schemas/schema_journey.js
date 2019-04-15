@@ -11,7 +11,6 @@ const schemaLogin = Joi.object({
 });
 
 
-
 module.exports = {
     schemaLogin,
   };

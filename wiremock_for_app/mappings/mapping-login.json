@@ -1,0 +1,21 @@
+{
+  "id" : "ff5300ce-52e8-36e2-9cb5-ba41988b55d2",
+  "request" : {
+    "url" : "/login",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"name\":\"darling\",\"password\":12345}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 201,
+    "bodyFileName" : "body-login.json",
+    "headers": {
+      "Authorization" : "OAIHD8H3HEU0393HF9HEF9H",
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  },
+  "uuid" : "ff5300ce-52e8-36e2-9cb5-ba41988b55d2"
+}
